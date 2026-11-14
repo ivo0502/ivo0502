@@ -1,12 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ivan 👋</h2>
 
-👋 Welcome to My GitHub Profile!
-
-⚠️ Important Notice: This is my new official GitHub account. Unfortunately, my previous account was compromised, so I created this new profile to continue sharing my projects and development work.
-
-🚀 Here you'll find my latest projects, QA automation tests, and software development work.
-
-Thank you for visiting my new profile!
 
 
 ### 👨🏻‍💻 About Me
